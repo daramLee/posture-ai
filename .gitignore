@@ -1,0 +1,33 @@
+# 가상환경
+venv/
+ENV/
+env/
+.venv/
+
+# pycache (Python 실행 시 자동 생성)
+__pycache__/
+*.py[cod]
+
+# Jupyter/VSCode 관련
+.ipynb_checkpoints/
+.vscode/
+*.code-workspace
+
+# OS별 숨김파일
+.DS_Store
+Thumbs.db
+
+# 모델, 로그, 데이터 중간파일 (선택)
+*.pkl
+*.log
+*.csv
+*.npy
+
+# 빌드 파일
+build/
+dist/
+*.egg-info/
+
+# 기타
+*.swp
+*.bak
