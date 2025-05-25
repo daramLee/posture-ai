@@ -12,3 +12,5 @@ posture-ai/
 ├── posture_dataset.csv  ← 전처리된 전체 데이터
 ├── requirements.txt     ← 의존성 목록
 └── README.md
+
+# 판단 범위
